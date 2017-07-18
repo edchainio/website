@@ -1,2 +1,3 @@
-# website
-edchain.io
+# edChain.io website
+
+Repo for tracking issues with the site...
